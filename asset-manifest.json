@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/f4-calculator-react/static/css/main.cd24483d.css",
+    "main.js": "/f4-calculator-react/static/js/main.7cf5d498.js",
+    "index.html": "/f4-calculator-react/index.html",
+    "main.cd24483d.css.map": "/f4-calculator-react/static/css/main.cd24483d.css.map",
+    "main.7cf5d498.js.map": "/f4-calculator-react/static/js/main.7cf5d498.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd24483d.css",
+    "static/js/main.7cf5d498.js"
+  ]
+}
